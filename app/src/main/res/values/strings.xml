@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Graduation Countdown</string>
+    <string name="countdown">There are </string>
+    <string name="countdownleft">till Graduation!!!</string>
+</resources>
